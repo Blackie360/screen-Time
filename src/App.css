@@ -14,7 +14,7 @@
 
 body {
   font-family: var(--font-roboto);
-  background-color: #212426;
+  background-image: url(https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80);
 }
 
 .app {
@@ -74,7 +74,7 @@ h1 {
   cursor: pointer;
 }
 
-/* .search button {
+ .search button {
   padding: 20px 40px;
   border-radius: 0.5rem;
   margin-left: 15px;
@@ -87,7 +87,7 @@ h1 {
   background: #1f2123;
   -webkit-box-shadow: 5px 5px 7px #1c1d1f, -5px -5px 7px #222527;
   box-shadow: 5px 5px 7px #1c1d1f, -5px -5px 7px #222527;
-} */
+} 
 
 .empty {
   width: 100%;
